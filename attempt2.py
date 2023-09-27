@@ -1,6 +1,16 @@
 import random
 from snakeObject import Snake, Direction, Coordinate
 
+#######################################
+
+#Hey Cooper, unfortunately I can't make it to Protospace this evening.
+#I did figure out the bug and random food movement works!
+#
+#what's the next step?
+#My guess would be either implementing game refresh or hooking up the keybindings which don't control the snake yet.
+
+#######################################
+
 # MAKE IT SO THE APPLE CHANGES LOCATION WHEN EATEN
 # FIX CONSOLE BUG
 
